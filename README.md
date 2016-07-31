@@ -3,7 +3,7 @@
 A simple widget to change the mac address of your network card of your OSX device. Super useful if you're stuck at O'Hare with only 30-minutes of complimentary internet.
 
 Usage: 
-sudo bash mac_address_changer.sh <device name (e.g. en0, en1, etc)>
+sudo bash mac_address_changer.sh \<device name (e.g. en0, en1, etc)\>
 
 
 Known Bugs: 
