@@ -6,10 +6,10 @@ Usage:
 sudo bash mac_address_changer.sh \<device name (e.g. en0, en1, etc)\>
 
 
-Known Bugs: 
-Sometimes it the command to assign the mac address doesn't work, and you have to rerun the command
-Currently only works for airport devices
+Known Bugs:  
+Sometimes it the command to assign the mac address doesn't work, and you have to rerun the command. 
+Currently only works for airport devices. 
 
-TODO: 
-Search for currently connected devices use those
-Fix bugs
+TODO:  
+Search for currently connected devices use those. 
+Fix bugs. 
